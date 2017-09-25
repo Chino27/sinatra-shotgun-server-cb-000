@@ -1,5 +1,4 @@
-
-
-get '/' do
-  "Started my server using Shotgun!"
+require 'sinatra'
+gets '/' do 
+  "Welcome to your app!!!! I BUILT THIS!"
 end
