@@ -1,4 +1,5 @@
 require 'sinatra'
-gets '/' do 
+
+gets '/' do
   "Welcome to your app!!!! I BUILT THIS!"
 end
